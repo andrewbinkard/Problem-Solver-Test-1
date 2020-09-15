@@ -1,7 +1,7 @@
 {
-  "name": "challenge_1",
+  "name": "Problem Solving 101",
   "version": "1.0.0",
-  "description": "Historical event finder",
+  "description": "Fix a react app",
   "main": "index.js",
   "scripts": {
     "build": "webpack -w --config webpack.config.js --mode production",
@@ -16,14 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kptkrunch/hratx48-mini-apps-2.git"
+    "url": "https://github.com/Kptkrunch/Problem-Solver-Test-1.git"
   },
   "author": "Joshua Edwards",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Kptkrunch/hratx48-mini-apps-2/issues"
-  },
-  "homepage": "https://github.com/Kptkrunch/hratx48-mini-apps-2#readme",
+  "homepage": "",
   "dependencies": {
     "path": "^0.12.7",
     "react": "^16.13.1",
